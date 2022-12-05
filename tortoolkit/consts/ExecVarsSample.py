@@ -5,20 +5,20 @@ except:
         # Set true if its VPS
         IS_VPS = False
         
-        API_HASH = ""
-        API_ID = 0
-        BOT_TOKEN = ""
-        BASE_URL_OF_BOT = ""
+        API_HASH = "0d8c8aabe36b01db6a26a7f2780fa660"
+        API_ID = 1677067
+        BOT_TOKEN = "5471273907:AAHvXXWYlKcttZJTyTOBzERUxa6F6mjUHWc"
+        BASE_URL_OF_BOT = "https://mltb-sparkxcloudbot.koyeb.app"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
         ALD_USR = []
-        OWNER_ID = 0
+        OWNER_ID = 1126746691
         
         # Google Drive Index Link should include the base dir also See readme for more info
-        GD_INDEX_URL = False
+        GD_INDEX_URL = "https://sathishsk.skmassking.workers.dev/0:/Sathish%20Bot/"
 
         # Time to wait before edit message
         EDIT_SLEEP_SECS = 40
